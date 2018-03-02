@@ -1,5 +1,5 @@
 # typeorm-mysql
-Example node project using typeorm-mysql
+Example node project using typeorm and mysql
 
 ## Prerequisite
 1. MySql with database called typeorm
